@@ -1,0 +1,29 @@
+# Node dependencies
+node_modules
+
+# Logs
+npm-debug.log*
+*.log
+
+# Git
+.git
+.gitignore
+
+# Environment files
+.env
+
+# Testing & coverage
+coverage
+.nyc_output
+
+# Build cache and system files
+.cache
+.DS_Store
+
+# OS-specific junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Build artifacts (only for frontend if build exists in same folder)
+build
