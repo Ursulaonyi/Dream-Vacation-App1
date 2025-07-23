@@ -25,5 +25,3 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Build artifacts (only for frontend if build exists in same folder)
-build
